@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Faça seu Login</title>
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+
+    <form method="post" action="Verificar">
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" required>
+
+        <label for="PassWord">Senha:</label>
+        <input type="password" id="PassWord" name="PassWord" required>
+
+        <!-- Botão de envio -->
+        <button type="submit">Verificar</button>
+    </form>
+
+    <!-- Exibir mensagem de erro ou sucesso -->
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert alert-danger">@Html.Raw(ViewBag.Message)</div>
+    }
+
+
+    <script src="/js/site.js"></script>
+
+</body>
+</html>

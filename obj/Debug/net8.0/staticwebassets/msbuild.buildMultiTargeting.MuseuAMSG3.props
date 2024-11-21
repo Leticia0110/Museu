@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MuseuAMSG3.props" />
+</Project>

@@ -1,0 +1,51 @@
+﻿@model MuseuAMSG3.Models.Bilheteria
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Compre seu bilhete!</h1>
+
+<hr/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddBilheteria">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Digite seu nome:</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">Digite seu email:</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="DateTime" class="control-label">Selecione o dia e a hora da visita!</label>
+                <input asp-for="DateTime" class="form-control" />
+                <span asp-validation-for="DateTime" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Comprar!" class="btn btn-success" />
+            </div>
+        </form>
+        <br>
+        <div>
+            <a asp-action="BilheteriaList">Mostrar o banco</a>
+        </div>
+    </div>
+    <div class="col-md-1">
+        <img src="~/image/bilhete.png">
+    </div>
+</div>
+<br>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

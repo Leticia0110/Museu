@@ -1,0 +1,1042 @@
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.Development.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.staticwebassets.runtime.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.exe
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.deps.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.runtimeconfig.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.pdb
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Humanizer.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Common.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.CodeDom.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.AssemblyReference.cache
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfoInputs.cache
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfo.cs
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.CoreCompileInputs.cache
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.MvcApplicationPartsAssemblyInfo.cache
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cache
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cs
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.build.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.development.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.MuseuAMSG3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.build.MuseuAMSG3.props
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MuseuAMSG3.props
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MuseuAMSG3.props
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\bundle\MuseuAMSG3.styles.css
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\projectbundle\MuseuAMSG3.bundle.scp.css
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.Up2Date
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\refint\MuseuAMSG3.dll
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.pdb
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.genruntimeconfig.cache
+E:\PROGRAMMERS\leticia\MuseUG3-master\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\ref\MuseuAMSG3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.staticwebassets.runtime.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.exe
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.deps.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.runtimeconfig.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.pdb
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.AssemblyReference.cache
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfoInputs.cache
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfo.cs
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.CoreCompileInputs.cache
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cache
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cs
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.MuseuAMSG3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.build.MuseuAMSG3.props
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MuseuAMSG3.props
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MuseuAMSG3.props
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\bundle\MuseuAMSG3.styles.css
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\projectbundle\MuseuAMSG3.bundle.scp.css
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.Up2Date
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\refint\MuseuAMSG3.dll
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.pdb
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.genruntimeconfig.cache
+C:\Users\Fatec Taqua. 03\Desktop\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\ref\MuseuAMSG3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.Development.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.staticwebassets.runtime.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.exe
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.deps.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.runtimeconfig.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.pdb
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Humanizer.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Common.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.CodeDom.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.AssemblyReference.cache
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfoInputs.cache
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfo.cs
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.CoreCompileInputs.cache
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.MvcApplicationPartsAssemblyInfo.cache
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cache
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cs
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.build.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.development.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.MuseuAMSG3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.build.MuseuAMSG3.props
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MuseuAMSG3.props
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MuseuAMSG3.props
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\bundle\MuseuAMSG3.styles.css
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\projectbundle\MuseuAMSG3.bundle.scp.css
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.Up2Date
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\refint\MuseuAMSG3.dll
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.pdb
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.genruntimeconfig.cache
+D:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\ref\MuseuAMSG3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.Development.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\appsettings.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.staticwebassets.runtime.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.exe
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.deps.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.runtimeconfig.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\MuseuAMSG3.pdb
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Humanizer.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Common.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.CodeDom.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.AssemblyReference.cache
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.GeneratedMSBuildEditorConfig.editorconfig
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfoInputs.cache
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.AssemblyInfo.cs
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.CoreCompileInputs.cache
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.MvcApplicationPartsAssemblyInfo.cache
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cache
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.RazorAssemblyInfo.cs
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.build.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.development.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.MuseuAMSG3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.build.MuseuAMSG3.props
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MuseuAMSG3.props
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MuseuAMSG3.props
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\bundle\MuseuAMSG3.styles.css
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\scopedcss\projectbundle\MuseuAMSG3.bundle.scp.css
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.csproj.Up2Date
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\refint\MuseuAMSG3.dll
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.pdb
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\MuseuAMSG3.genruntimeconfig.cache
+E:\TRABALHO\MuseUG3-master\MuseuAMSG3\obj\Debug\net8.0\ref\MuseuAMSG3.dll
